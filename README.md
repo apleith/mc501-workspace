@@ -89,6 +89,10 @@ Commit early and often. A commit is cheap. Losing a week of work is not.
 - Textbook, *From Vibes to Variables*: <https://aura-lab.siue.edu/v2v/>
 - `v2v` R package, the Twitch practice corpus: <https://github.com/AURA-Lab-SIUE/v2v-r>
 
+## License
+
+The template itself (the folder structure, the files in `_templates/`, and this README) is CC BY 4.0; see `LICENSE`. The license covers the template, not the work you create in your own copy; your journals, notes, and project files are yours.
+
 ---
 
 AURA Lab, Department of Mass Communications, Southern Illinois University Edwardsville.
